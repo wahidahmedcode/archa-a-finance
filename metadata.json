@@ -1,0 +1,6 @@
+{
+  "name": "Aeterna Financial Intelligence",
+  "description": "Precision-driven performance metrics & smart scenarios for the ultra-luxury asset, The Obsidian Prism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
